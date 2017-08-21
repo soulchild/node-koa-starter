@@ -10,10 +10,9 @@
     "lint": "eslint --ignore-pattern node_modules --ignore-pattern public/js --ignore-pattern assets ."
   },
   "author": "Tobi Kremer",
-  "license": "ISC",
+  "license": "MIT",
   "private": true,
   "dependencies": {
-    "3dio": "^1.0.0-beta.53",
     "koa": "^2.3.0",
     "koa-bodyparser": "^4.2.0",
     "koa-logger": "^3.0.1",
